@@ -1,0 +1,8 @@
+prefix=/mnt/e/wls-18/AiSillyEcho/silly_echo_ws/install
+
+Name: silly_echo
+Description: Description of silly_echo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+silly_echo
+-DCATKIN_DEVEL_PREFIX=/mnt/e/wls-18/AiSillyEcho/silly_echo_ws/devel -DCMAKE_INSTALL_PREFIX=/mnt/e/wls-18/AiSillyEcho/silly_echo_ws/install -G Unix Makefiles
